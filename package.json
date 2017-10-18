@@ -1,0 +1,16 @@
+{
+  "name": "mysql_v_mongodb_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "mongodb",
+    "mysql"
+  ],
+  "author": "Alan Gomes, Mathias Azzolini",
+  "license": "ISC"
+}
